@@ -1,0 +1,12 @@
+*{
+    color: green;
+    font-size: 30px;
+}
+li{
+    color: red;
+    font-size: 30px;
+}
+.selectors{
+    color: blue;
+    font-size: 30px;
+}
